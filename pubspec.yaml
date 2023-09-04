@@ -23,7 +23,6 @@ dependencies:
   zaincash: ^0.0.5
   http: ^0.13.6
   dart_jwt_token: ^0.0.3
-  flutter_credit_card: ^3.0.7
   
 
 dev_dependencies:
